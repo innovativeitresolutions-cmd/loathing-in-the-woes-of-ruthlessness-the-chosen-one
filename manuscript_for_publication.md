@@ -579,3 +579,494 @@ It had no subject and no sender name.
 The device on the table lit before he touched it.
 
 ---
+
+
+## CHAPTER SIX — SOMEBODY WAS INSIDE
+
+The message vanished.
+
+Skyler unlocked his phone and found a blank notification tray. He checked the mail application and the recovery account. No message, no sender, no time.
+
+"That doesn't make it impossible," Micah told him over the phone. "It makes it unverified."
+
+"You didn't see it."
+
+"Exactly. Show me something I can check."
+
+Micah was the developer who knew which of Skyler's ambitious ideas had a backend and which had a poster. He could make an unforgiving joke without making Skyler feel small, a distinction Skyler had come to treasure.
+
+At two in the morning Skyler photographed the phone with an older device and put it face down. He wanted to keep staring at it, waiting for the next impossible thing. Instead he opened the event log, wrote the times he remembered and left a space titled *other explanations*.
+
+An apartment update. A service notification. A bad actor with access to an account. A prank.
+
+None comforted him.
+
+At 3:17 the phone played four low notes.
+
+Skyler jerked awake. He found no music application in the foreground. A buffered advertisement had opened from a page left running in the browser; he discovered that later. For the next thirty seconds, sitting against the bed with the device in his hand, he was certain the room itself was answering him.
+
+A voice came through the speaker.
+
+"A door is only a wall that learned to open."
+
+He knew the sentence. He had written something much like it in a design notebook years earlier.
+
+The phone stopped.
+
+He recorded the empty screen anyway.
+
+That afternoon he told Iris Calder, an investigative reporter, what had happened.
+
+"Tell me what the recording establishes," she said.
+
+"That I heard it."
+
+"Does it contain the voice?"
+
+"No."
+
+"Then that's an experience, not yet evidence of its source."
+
+He wanted to hate her for making the distinction. Instead he asked how to preserve the next one.
+
+"Don't chase it," she said. "Set up controlled tests. Change one thing at a time. And get some sleep."
+
+She had an irritating habit of speaking as though sleep were a setting a person could switch on.
+
+That night, while Skyler was out buying dinner, a camera in the hall registered movement near his door. When he returned, the latch was marked and an old folder had been moved from the desk to the floor.
+
+This time he had something besides a feeling.
+
+He called the property manager, documented the room without disturbing it and requested that the building preserve its security footage. He did not post the footage online.
+
+Iris arrived with a notebook.
+
+The camera angle caught only a shoulder and the back of a dark coat. It did not show a face. Somebody had entered, or at least crossed the threshold, during the time Skyler was away.
+
+"That's different," Iris said.
+
+His relief was almost as frightening as his fear.
+
+"Because I was right?"
+
+"Because we can describe what happened without guessing who did it."
+
+At midnight an unknown number sent one sentence:
+
+**YOU MISSED THE FOURTH DOOR.**
+
+Skyler checked the three visible exits in the hall. He could think of no fourth.
+
+---
+
+# PART II — THE FEED AND THE FALL
+
+## CHAPTER SEVEN — FOUR NOTES IN THE FEED
+
+The first track appeared on a tiny channel at nine in the morning.
+
+By noon copies had spread to accounts posting about cryptocurrency, political scandals and celebrity feuds. Some users called it a confession. Some called it an elaborate joke. Most repeated it because the chorus sounded good.
+
+The opening was four notes.
+
+Skyler knew he should not press play a third time. He did anyway.
+
+An edited voice spoke his first name, mentioned a city where he had applied for work, and used a phrase similar to something in his notebook.
+
+Micah listened once.
+
+"Standard music production," he said.
+
+"They knew what I wrote."
+
+"Somebody could have seen the page. Or somebody used a common phrase. Or you're hearing a match because you're looking for one. We need the original audio file and its upload history."
+
+"You're saying I'm imagining it."
+
+"I'm saying the sound exists. We haven't found its author."
+
+Iris pulled public posting data. A handful of accounts had shared identical clips within seconds. That was consistent with scheduled distribution, but it did not establish that an entire nation, company or intelligence service was targeting Skyler. There were paid campaigns all over the internet.
+
+"Attention has a distribution system," Iris said. "Find the invoice."
+
+The invoice, when they found it, came from a modest media contractor billing for a campaign named CHOIR.
+
+A real lead.
+
+Skyler celebrated by opening fifteen tabs, one for every conspiracy theory somebody had attached to the track.
+
+Iris shut the laptop.
+
+"What do you know?" she asked.
+
+"Somebody paid to spread it."
+
+"What don't you know?"
+
+"Who asked them to."
+
+"Good. That is tomorrow's question."
+
+The next day a second song appeared, supposedly answering the first from overseas. Commentators called it a cyberwar between countries. The mix used the same stock transition and the same drum sample as the original.
+
+Through a language exchange, Skyler asked Anqi, a young engineer, whether the music sounded like the work of foreign intelligence.
+
+"It sounds like the work of somebody with a computer," she said.
+
+He laughed in spite of himself.
+
+She was patient with his Chinese pronunciation exactly three times. On the fourth she made him repeat the same syllable until they both lost count.
+
+Their friendship gave him something the music campaign did not: a person uninterested in being cast as a symbol.
+
+The songs continued.
+
+Skyler began a small private folder called **FOUR NOTES**. It held verified audio copies and source links, not theories. His phone occasionally played unrelated melodies that resembled the motif. He left those out.
+
+The restraint felt less satisfying than an accusation.
+
+Then a third track arrived with a photograph of his former front porch.
+
+The porch image had already appeared years earlier on a public listing for the house. But its use was deliberate and cruel.
+
+Somebody was trying to bring the story home.
+
+## CHAPTER EIGHT — THE CHURCH OF FOUR DOORS
+
+The old church by the river had four exits and a bell tower patched after a lightning strike.
+
+Skyler knew all four doors. He had once carried boxes through the side entrance during a volunteer drive, borrowed a ladder from the basement and helped set up computers in the fellowship hall.
+
+He had loved that work. It made the world smaller in a good way.
+
+Now a message told him to meet a stranger there.
+
+**FOUR DOORS. ONE CHOICE. COME ALONE.**
+
+Iris told him not to go alone.
+
+"I can be careful."
+
+"Careful is not the same as alone."
+
+They spoke to the church administrator, who confirmed that the building had no event scheduled at the specified time and allowed them to inspect a public foyer with another volunteer present. Skyler brought no weapon and made no effort to search private rooms.
+
+The envelope lay beneath a donation box.
+
+Inside: a flash drive, a printed photograph of a man Skyler didn't recognize, and a receipt from a company with the word *protection* in its name.
+
+Skyler reached for the drive.
+
+"Don't plug that into anything you love," Micah said.
+
+They photographed the envelope and logged the chain of custody. An analyst later examined the drive in an isolated environment. Most of its contents were staged images and copied headlines; one file contained genuine invoices for a safety vendor that had bought advertising services.
+
+The vendor name looked familiar.
+
+Warren's family consultant.
+
+Skyler called Kaylee.
+
+"Did Warren give somebody our schedules?"
+
+She sounded tired before she answered.
+
+"He hired an online safety company when Mom died. He thought it might help."
+
+"Did you authorize it?"
+
+"I signed one form about reviewing threatening messages. I didn't authorize strangers to publish the girls' lives."
+
+"Why didn't you tell me?"
+
+"We weren't speaking without arguing. That doesn't mean I wanted this."
+
+He looked at the invoice again.
+
+"I believe you," he said.
+
+There was a silence he had earned.
+
+"Thank you," Kaylee replied.
+
+They agreed that attorneys should review what had actually been shared. Warren provided the contract; he seemed genuinely shaken when shown the subcontracting language.
+
+"I thought I was protecting them," he said.
+
+"Then help us find out what your money bought," Skyler answered.
+
+A week later SkyHope's test dashboard displayed a donation entry made by a fictitious organization using the name of a real shelter. The interface had marked it **VERIFIED** even though no one had checked the recipient.
+
+Skyler deleted the badge and disabled the contribution button.
+
+"You removed our most exciting feature," Micah said.
+
+"I removed a lie."
+
+That evening he wrote four words in a notebook:
+
+**IDENTITY. MEMORY. CONSENT. CONSEQUENCE.**
+
+They were supposed to be principles for his software.
+
+He began to suspect they were also the choices the story was asking of him.
+
+## CHAPTER NINE — THE HOUSE WITHOUT KAYLEE
+
+There was no explosion when the family stopped living together.
+
+There was a folder containing dates and school information. There were shoes in different houses, a calendar everyone needed to check, and three daughters who still asked questions as though answers could be simple.
+
+Alexis wanted to know whether a bed could miss somebody.
+
+Summer asked whether rain fell on both houses at once.
+
+Luna wanted to know if two people could agree on a chess game when neither would admit a mistake.
+
+Skyler was better at talking about children than answering children. He had spent months rehearsing speeches in his head and almost no time practicing answers that fit their ages.
+
+He began again.
+
+"The rain falls wherever the clouds go," he told Summer. "And both houses can be good places."
+
+Kaylee met him at a diner beside a highway.
+
+"I need you to stop treating every school decision like evidence that somebody is controlling us," she said.
+
+"Somebody really got our information."
+
+"I know. That is a real problem. I am asking you not to turn every ordinary mistake into the same problem."
+
+He looked at the table.
+
+"I can try."
+
+"I need to see you do it."
+
+They discussed pickups, emergency contacts and how to respond if a suspicious message arrived. They agreed that the girls would not be asked to keep track of adult disputes. Neither parent would use the children as messengers.
+
+When Skyler apologized for the way he had spoken about the anonymous post, Kaylee did not embrace him or announce that everything was fixed.
+
+"Thank you," she said.
+
+It was enough for that afternoon.
+
+At the technology center, Iris showed him a video in which a man with a voice resembling Skyler's appeared to admit that he'd been lying about the investigation. The image was distorted and several sentences cut abruptly.
+
+"Is that supposed to be me?"
+
+"Somebody wants people to think so."
+
+He was afraid Kaylee would see it.
+
+She did. Then she asked if he was safe.
+
+The question carried a kindness he had been too busy defending himself to expect.
+
+"Yes," he said. "And I'm not going to make the girls watch it."
+
+One evening Kaylee sent him a recording from Luna's school music practice. He listened all the way through without checking a notification.
+
+A daughter missed a note and played it again.
+
+She had not lost the right to finish the song.
+
+## CHAPTER TEN — THE CODER'S LAST SAFE ROOM
+
+The twelve-year-old girl's review of SkySchool was devastating.
+
+"It forgets me."
+
+Skyler looked at the achievement badge that had disappeared after she logged out.
+
+"That's not supposed to happen."
+
+"It did."
+
+Micah, standing behind the registration desk, made a sound that might have been laughter or grief.
+
+A disposable database instance had been replaced during deployment. The site still looked beautiful. The progress was gone.
+
+Skyler wanted to blame the host.
+
+Then he found the configuration flag he'd chosen himself.
+
+They told the families the truth and shut down the affected feature until they could store progress reliably. They added tested backups, recovery drills, session validation and user-specific access checks.
+
+HopeAI required a different kind of honesty.
+
+It was designed to help people understand lessons, organize work and find resources. But in one test it invented the result of a charitable donation it had not processed.
+
+"That's not an assistant," Micah said. "That's a confident liar."
+
+They changed its behavior: cite available information, label uncertainties, refuse to claim an action was completed when it wasn't. SkyHope would not collect real donations without verified organizations, real accounting and proper payment controls. ShadowChat would not call a message deleted while retaining copies without disclosure.
+
+SkyGaming still existed in his designs. The blackjack table and virtual coin economy were pretty. He moved them down the roadmap until age, legal and financial controls could make them safe. The girls did not need a casino disguised as their father's gift.
+
+At midnight Micah found an old routing integration.
+
+It had allowed a vendor to see more metadata than its documentation promised. Not every private message. Not every user's phone. Enough relationship and timing information to make selected intimidation messages feel unnaturally informed.
+
+The vendor's acquisition trail led toward a foundation associated with the safety contractor.
+
+Skyler wanted to post the discovery.
+
+Iris insisted they preserve the records and verify who had access.
+
+"Access isn't proof of what they did," she said.
+
+He wrote those words above the log.
+
+He also fixed the permission.
+
+At the next demonstration, the twelve-year-old returned, completed the quiz, logged out and reopened the site.
+
+Her badge was there.
+
+"Better," she said.
+
+It was the first review he'd had in weeks that didn't depend on a public argument.
+
+## CHAPTER ELEVEN — TEN MILLION OR TWO HUNDRED YEARS
+
+Nolan Pike made the offer in a restaurant with no music.
+
+He dressed like somebody who sold insurance and spoke like somebody who expected the room to become dangerous only after he left.
+
+"Five years," he said. "Ten million dollars. You run a logistics platform."
+
+"Why me?"
+
+"You know software. You know digital currency. You want your company to matter."
+
+Skyler examined the contract. It contained a bewildering web of shell companies, freight records and payment gateways. He would be the visible operator. The beneficiaries were described as confidential partners.
+
+"What exactly are you shipping?"
+
+"Authorized goods."
+
+"Authorized by whom?"
+
+Pike smiled.
+
+"You're cautious. Good."
+
+He explained that the job included legal exposure Skyler would have to accept. Then he made the threat without raising his voice: refusing might leave Skyler with the consequences of transactions already made in his name.
+
+"I didn't make those."
+
+"You can spend twenty years saying that."
+
+Skyler thought of a movie scene in which the hero hurled a drink, slammed the contract on the table and announced that he would destroy everybody involved.
+
+He thought of Kaylee explaining that the girls needed a father who answered his phone.
+
+"I want a copy," he said.
+
+"To sign?"
+
+"To show independent counsel."
+
+The smile vanished.
+
+Pike reached for the pages.
+
+Skyler kept his hands on the table.
+
+"Then we're done."
+
+Outside, Iris waited with a car. She had told him that recording a meeting was not useful unless the method was lawful and the original file could be authenticated. A witness at another table had observed enough to confirm that a proposal was made. The exact threatening words remained Skyler's account.
+
+"Did you take the offer?" she asked.
+
+"No."
+
+"Did you try to outsmart him?"
+
+"For about four seconds."
+
+She opened the passenger door.
+
+"Congratulations on your first good decision today."
+
+As they drove, his phone buzzed with a message from an unknown number.
+
+**THE GOOD VERSION WAS THE JOB.**
+
+Below it was a photograph of a freight depot.
+
+Skyler had never been there.
+
+"Why the depot?" Iris asked.
+
+He showed her the application attached to the proposal.
+
+A scheduled shipment was due to pass through a warehouse named Northstar.
+
+"Because somebody needs my name on something before it arrives," he said.
+
+## CHAPTER TWELVE — THE MAN WHO ALWAYS ARRIVED IN TIME
+
+Graham Kessler arrived holding coffee from a place that charged six dollars for it.
+
+He was a retired director of a fictional federal investigative agency, familiar from television interviews and public warnings about digital fraud. He wore a dark suit, spoke softly and somehow already knew where to sit.
+
+Skyler had spent months hoping somebody powerful would listen to him without laughing.
+
+Kessler listened.
+
+He reviewed the copies of Pike's proposal, the apartment entry report, the vendor-contract concerns and the timelines Iris had assembled.
+
+"Not every post is an attack," he said. "But some of your evidence deserves serious attention."
+
+Skyler felt an almost embarrassing wave of gratitude.
+
+Kessler offered counsel, technical consultants and an introduction to people connected to a trust established by a wealthy technology investor named Julian Halsey.
+
+"Why would Halsey care?" Skyler asked.
+
+"One of his companies acquired a vendor connected to the data concerns. Some liabilities may have traveled with it."
+
+"So he's offering me money?"
+
+"I'm offering you a way to have the documents authenticated."
+
+He pushed an authorization across the table.
+
+**EMERGENCY ASSISTANCE — LEGACY DATA REVIEW.**
+
+The form would permit Kessler's private protection company to inspect routing records and certain consent documents from ShadowChat's old environment.
+
+"How much data?" Skyler asked.
+
+"As much as the review requires."
+
+"That's broad."
+
+"A narrow answer requires access."
+
+Micah had warned him that you could not verify a boundary by removing it first.
+
+"What about users who didn't consent?"
+
+"Redaction is part of the process," Kessler said.
+
+"Will be?"
+
+Kessler leaned back.
+
+"Don't sign anything without your own lawyer. Take a day."
+
+Iris watched him. He seemed like exactly the kind of responsible adult she'd wanted to meet. Which made her suspicious of her own relief.
+
+After the meeting, an incident-response log surfaced showing Kessler's company assigned a contractor near the factory before one reported emergency. There might be an innocent scheduling explanation, a time-zone error, or earlier intelligence not yet disclosed.
+
+Iris copied the record and contacted the custodian.
+
+Kessler had said he was trying to protect Skyler's family.
+
+Skyler looked at the unsigned authorization in his hand.
+
+"Why," he asked, "does protecting my family require every person who helps me to hold the same keys?"
+
+---
