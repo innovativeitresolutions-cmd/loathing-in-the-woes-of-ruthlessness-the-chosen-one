@@ -1465,3 +1465,396 @@ He looked across the room.
 "No," Talia replied. "We're looking for somebody who had our paperwork."
 
 ---
+
+
+# PART IV — THE PEOPLE LEFT BEHIND
+
+## CHAPTER NINETEEN — SEVEN JOBS, SEVEN GOODBYES
+
+By the seventh lost job, Skyler had learned the particular sound of a manager refusing to say why.
+
+Sometimes a contract ended because he arrived late. Sometimes the budget changed. Once a recruiter promised a job that had never existed; another recruiter was honest enough to apologize when the client's funding disappeared. One dismissal raised legitimate questions about an improper background dossier. The rest would not fit into a single explanation no matter how hard he tried.
+
+The inventory of losses was humiliating: work, vehicles, the house he'd shared with Kaylee, the easy rhythm of seeing his daughters each morning, and relationships he had expected to last.
+
+He wanted a ledger that put a villain's signature beside every entry.
+
+Iris sat with him at the community center while he listed the jobs.
+
+"Separate what you can document from what you suspect," she said.
+
+"You're going to make the list shorter."
+
+"I'm going to make it useful."
+
+He wrote down the dates. He attached termination notices where he had them. He marked performance issues he should have handled differently. He requested copies of disputed records through appropriate channels instead of sending late-night accusations.
+
+One employer had bought a report from the same risk vendor connected to Vivienne's original review. The vendor's access practices deserved scrutiny, but the purchase did not by itself prove that the employer had been told to fire him.
+
+Skyler stared at the spreadsheet.
+
+"It still hurts," he said.
+
+"Of course."
+
+"Making the story smaller doesn't make the losses smaller."
+
+"No," Iris replied. "It gives us a chance to do something about the parts we can prove."
+
+That night Luna called about a chess puzzle.
+
+"Can you solve it?" she asked.
+
+He could see the board through the phone. The king was under attack from two directions. A beginner would try to capture the threatening piece and lose instantly.
+
+"Maybe move the knight," he said.
+
+"That's cheating. You always want the knight."
+
+"It's an elegant piece."
+
+"So are the others."
+
+She was right, and he laughed. He watched her find her own solution.
+
+At the end of the call she asked whether he had a job yet.
+
+"Not the right one."
+
+"Are you sad?"
+
+"Some today."
+
+"Do you need a break?"
+
+The question had no corporate terminology, no demand for proof and no hidden second meaning.
+
+"Yes," he said. "I think I do."
+
+He turned off the laptop and went outside.
+
+## CHAPTER TWENTY — DAHLIA'S STAGE
+
+Dahlia met Skyler at a nightclub that smelled of perfume and melted ice.
+
+He was there with Micah, who claimed the visit was research into interface design.
+
+"What interface?" Skyler asked.
+
+"The one where you stop talking about database migrations for three hours."
+
+Dahlia performed that night. Afterward she sat at a table counting receipts and drinking water through a paper straw. She was saving to open a fitness studio and had written the lease cost, insurance, equipment and twelve months of operating expenses in a small notebook.
+
+"I like plans with numbers," Skyler said.
+
+"Do you have one?"
+
+"I have thirty."
+
+"Then you don't have one."
+
+They went to a diner the following week. She ordered breakfast for dinner. He talked about his girls and showed her a photograph of a chessboard without including the children's faces.
+
+On their third date he began describing the Society.
+
+Dahlia listened until he started connecting three unrelated incidents without pausing.
+
+"Are you frightened," she asked, "or are you asking me to be frightened?"
+
+He blinked.
+
+"Maybe both."
+
+"You can say you're scared. I don't need a theory to be kind to you."
+
+The sentence was so simple he almost missed what it offered.
+
+When he showed her an authenticated threat message, she read it and nodded.
+
+"This says somebody sent something ugly."
+
+"Yes."
+
+"It doesn't tell me who's behind it."
+
+"Not yet."
+
+"Then take care of yourself while you find out."
+
+They were happy for a while. She made fun of the way he renamed the same software module whenever a different name sounded more impressive. He helped her compare accounting platforms and became genuinely interested in how many clients a small studio would need to survive its first winter.
+
+One evening he asked whether she would move with him if his company became successful.
+
+"To where?"
+
+"I don't know. Wherever the company needs me."
+
+"What about where I need to be?"
+
+He had no answer that wasn't unfair.
+
+They parted without a conspiracy or dramatic betrayal. Dahlia wanted a studio. He wanted to rebuild the possibility of a home. They cared for each other and were headed in different directions.
+
+She left him a key chain shaped like a tiny dumbbell.
+
+"So you remember that bodies exist outside screens," she said.
+
+He laughed and kept it.
+
+In SkySchool's draft course catalog, he later found an unfinished lesson on budgeting. He rewrote its example around a fictional fitness studio that charged realistic prices and did not magically become profitable in month one.
+
+At the bottom he added: **A dream needs numbers, but numbers aren't the dream.**
+
+He didn't give it Dahlia's name. She had never agreed to become product content.
+
+## CHAPTER TWENTY-ONE — RAINA MOVES IN
+
+Raina arrived carrying two plants, one suitcase and a confidence Skyler mistook for permanence.
+
+She was another performer who understood the difference between the public attention her work attracted and the private life she had a right to keep. She replaced the broken bulb above his kitchen sink, arranged the room so the sofa faced the window instead of a blank wall, and laughed at the way he had stored forks in a coffee mug.
+
+"You live like you're waiting for someone to tell you it's safe to stay," she said.
+
+"Maybe I am."
+
+"Then buy a drawer."
+
+The shared apartment gave him back something he'd missed: another person's footsteps, an argument about dinner, a glass left beside the sink. Raina did not pretend his past was simple. She also refused to make it the center of her own life.
+
+One night an unfamiliar name lit her phone while he was plugging it in to charge.
+
+He could have handed it back. He could have asked a question.
+
+Instead he went quiet, then cold, and finally accused her of sharing private information with people he suspected.
+
+Raina looked at him.
+
+"Do you think I did?"
+
+"I don't know."
+
+"Then why are you talking like you know?"
+
+He explained the vendor records, the anonymous clips, the possibility that someone had been collecting information about him. He had genuine reasons to protect his accounts and be cautious. None of them proved Raina had done anything wrong.
+
+"Show me your messages," he demanded.
+
+"No."
+
+"If you've got nothing to hide—"
+
+"That's what people say when they want to stop asking permission."
+
+He sat down.
+
+The sentence struck him harder than an insult.
+
+"I care about you," she said. "I believe you're frightened. I'll listen to what you can show me and help you get support. I will not prove that I love you by surrendering my privacy."
+
+He apologized. She listened. They tried another week.
+
+Trust, once turned into a test nobody can pass, is difficult to rebuild.
+
+Raina moved out on a clear morning. She took the plants and left one small pot by mistake—or on purpose. Skyler never found out.
+
+He watered it.
+
+When he reviewed ShadowChat's invitation system, he found a feature that let the account owner view another participant's activity status too easily. It was convenient for worried users. It was also an invitation to monitor somebody who hadn't agreed to be monitored.
+
+He changed the default to private and added a plain consent control.
+
+Micah asked why the revision was suddenly so urgent.
+
+"Because being afraid doesn't give me the right to watch people," Skyler said.
+
+The next leaf on Raina's plant appeared three weeks later.
+
+He didn't turn it into a sign.
+
+He watered it again.
+
+## CHAPTER TWENTY-TWO — THE AUNT AND THE RANSOM
+
+The ransom message was addressed to Skyler, but it arrived at a relative's email account.
+
+His aunt called him in tears.
+
+"They used your picture," she said.
+
+"Please don't reply."
+
+"It says you've taken something that belongs to them."
+
+"I haven't."
+
+"They want money."
+
+"I know. Let me handle the part we can document."
+
+The sender demanded access to the Halsey trust records, threatened to publish compromising material, and tried to make the relative pressure Skyler into acting quickly. It invoked famous people who had no established connection to the sender.
+
+He hated hearing his family frightened because of something in his life.
+
+Iris arranged for the email, headers and attachments to be preserved. Skyler spoke with the aunt about protecting her accounts and how to identify requests for money that came from strangers impersonating relatives or institutions.
+
+"Why would somebody involve me?" she asked.
+
+"Because they thought I'd move faster if you were upset."
+
+Her silence hurt.
+
+She had always called to ask whether he had eaten enough, whether the children were well and whether he still had a car that worked. Now she was asking if she needed to change her phone number.
+
+He wanted to promise that nothing bad could happen. He did not.
+
+"I am sorry they contacted you," he said. "We're taking steps, and you don't have to do anything they demand."
+
+The blackmail evidence became important not because it revealed a mastermind but because the sender reused a phrase from Pike's contract and referenced a nonpublic annex number.
+
+That number had circulated among a small group of people.
+
+Kessler's private company had requested it twice.
+
+"Still not proof he's the sender," Iris reminded Skyler.
+
+"No."
+
+"Are you going to tell your aunt that?"
+
+"Yes."
+
+That evening Skyler added a new tool to HopeAI's imagined safety assistant: a clearly marked guide explaining how to verify an urgent financial request through an independently obtained contact number. It would not pretend to investigate a crime or guarantee a user was safe.
+
+Under the section about urgency he wrote:
+
+**A real emergency deserves care. Manufactured urgency deserves questions.**
+
+Elena approved of that one.
+
+## CHAPTER TWENTY-THREE — BRIAR'S PROMISE
+
+Briar had a way of making a crowded room feel quiet.
+
+Skyler met her at a community fundraiser where neither of them wanted to be photographed. She laughed at his nervous jokes and asked him questions about his daughters before asking about the company. He liked that she didn't confuse ambition with personality.
+
+They went walking by the river after dinner. She told him she wanted a stable life but did not need a man to arrive with one already completed. He told her about Kaylee without turning Kaylee into an obstacle or a villain.
+
+"She was your first love," Briar said.
+
+"Yes."
+
+"That won't disappear because you meet somebody else."
+
+"No."
+
+"Then don't make me compete with a memory."
+
+He promised not to.
+
+For a season they built something tender and imperfect. They made meals, shared stories of difficult families and spoke carefully about what it would mean to introduce children to a new partner. Briar insisted there be no rush.
+
+Skyler admired that.
+
+Then a stranger claiming to work for a safety organization contacted Briar. The person showed her what appeared to be evidence that Skyler was at risk and asked whether she could forward screenshots to verify his identity.
+
+The request sounded official. Briar was frightened for him.
+
+She sent some messages that weren't hers to send.
+
+Later, when the contact turned out to be connected to the suspect contractor network, she told herself she had merely cooperated with a protective investigation. She had not yet understood what the recipients might do with the material.
+
+Skyler noticed a phrase from a private exchange appearing in a public post.
+
+He asked her whether she'd shared anything.
+
+"No," she said too quickly.
+
+He saw the panic in her face and felt his own anger rise like a tide.
+
+This time he stopped before demanding her phone.
+
+"Can we talk with a counselor or lawyer present," he asked, "about what happened to the messages?"
+
+Briar looked away.
+
+"I was trying to protect you."
+
+"That doesn't tell me what you did."
+
+She began to cry. He wanted to comfort her and accuse her at the same time. Instead he said they needed some distance until they could speak honestly.
+
+He spent that night in his mother's spare room, listening to rain.
+
+The small promise they'd made on the riverside had not survived untouched.
+
+Whether anything of it could remain would depend on telling the truth.
+
+## CHAPTER TWENTY-FOUR — THE TWO FLAGS
+
+The tracks arrived eleven minutes apart.
+
+One account claimed to represent an American hacker. The next adopted the voice of a Chinese rival. Each spoke as if governments were holding the microphones. The visual effects contained flags, spinning coins and dramatic maps, assembled with the enthusiasm of a teenager who had just discovered video transitions.
+
+People treated it as a war.
+
+Anqi listened to the second track through her headphones.
+
+"Same drum sample," she said.
+
+"Same producer?"
+
+"Maybe."
+
+"Same government?"
+
+"Why do you always jump over the part we can actually check?"
+
+Skyler laughed.
+
+Through a freelance audio engineer, Iris authenticated the source file of an earlier upload. It contained an internal project identifier used by a commercial promotion studio. The studio had bought traffic from several advertising brokers, none of which was evidence that any nation had commissioned the material.
+
+The apparent rivalry was theater, and it was profitable.
+
+One network earned money selling excitement to cryptocurrency accounts. Another used the viral clips to place intimidating snippets where Skyler was likely to see them. A few posts were targeted. A great many were ordinary strangers imitating an online trend.
+
+"The criminal part isn't that songs exist," Iris said. "It's the extortion and identity misuse wrapped around them."
+
+Skyler saved the production records and discarded a dozen claims that he could not substantiate.
+
+Anqi called in the evening.
+
+"Your language lesson is late."
+
+"There's an investigation."
+
+"There is always an investigation."
+
+She paused.
+
+"Are you okay?"
+
+"I don't know yet."
+
+"Then we can practice a small sentence."
+
+She taught him how to say that he was learning. Not winning. Not chosen. Learning.
+
+He repeated it badly three times and correctly on the fourth.
+
+The four-beat rhythm made him smile.
+
+"I think I found an Easter egg," he said.
+
+"What?"
+
+"Nothing dangerous. Just a number I like."
+
+Later he added a language option to a SkyGlobal prototype. The welcome message did not assume a person's nationality from a song or flag. It asked which language the user preferred, and allowed the answer to change.
+
+The final track in the series included a waveform Skyler recognized from one of his own old voice recordings.
+
+This time the theft was not metaphorical.
+
+Somebody was making him speak.
+
+---
