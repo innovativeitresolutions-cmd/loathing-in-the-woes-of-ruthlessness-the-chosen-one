@@ -1858,3 +1858,392 @@ This time the theft was not metaphorical.
 Somebody was making him speak.
 
 ---
+
+
+# PART V — THE FACE BEHIND THE MASK
+
+## CHAPTER TWENTY-FIVE — THE TRUTH PROTOCOL
+
+Skyler woke before dawn and decided to make the truth boring.
+
+It was the most radical thing he could think of.
+
+No soundtrack. No dramatic promise that a single document would expose the universe. No screenshots posted so fast that strangers could decide who deserved punishment before a lawyer had finished reading the first page.
+
+Just sources, dates, uncertainties and a record of what the evidence actually supported.
+
+Elena's kitchen was blue in the early light. The refrigerator hummed. A kettle shuddered toward boiling. The family was asleep, and for once Skyler did not feel obliged to wake the whole internet.
+
+He called the document the Truth Protocol.
+
+Iris disliked the title.
+
+"Sounds like an app that sells you certainty," she said.
+
+"Then read it."
+
+She read the draft and drew red lines through nearly half of it.
+
+"That sentence implies the entire department was involved. You have evidence about one contractor. That sentence says Briar was a handler. You don't know her motive. This one says a president was briefed. You have no record of that."
+
+Skyler argued over every line.
+
+Then he asked her to go through it again.
+
+He reorganized the evidence into a set of questions: who paid whom, who accessed what, whose identity was verified, whose consent was documented, and which claimed emergencies had records created before the reported event.
+
+They listed possible innocent explanations beside each anomaly.
+
+"It makes the report look weak," Skyler complained.
+
+"It makes the report honest," Iris replied. "Those are different things."
+
+Micah built a simple local tool to check that sensitive attachments were removed from the public version. The first test caught a school address inside metadata from an innocent photograph.
+
+Skyler deleted it from the release and preserved the unredacted original with counsel.
+
+He looked at the screen and felt a cold shock.
+
+He had almost published the very information he accused others of misusing.
+
+"That's why you test," Micah said.
+
+Skyler renamed the document sections with four headings: **Identity, Memory, Consent, Consequence**.
+
+Under each heading he added the same footer:
+
+**Proud before proof. People before platforms.**
+
+The first packet would establish a limited network of contractor payments, account impersonation attempts and portions of a misleading recruitment scheme. It would not explain every lost job, every breakup, every song or every painful coincidence.
+
+When he finally pressed PUBLISH, his hands were shaking.
+
+The internet did not reward restraint.
+
+One stranger called him a coward. Another accused him of hiding the important part. A third proposed an even larger conspiracy with no documents at all.
+
+A journalist asked whether he'd name his children in a public interview.
+
+"No," he said.
+
+"Even to explain why it matters?"
+
+"Especially then."
+
+It was the first sentence he gave the press that he didn't regret an hour later.
+
+## CHAPTER TWENTY-SIX — THE MIRROR ROOM
+
+The Mirror Room did not contain mirrors.
+
+It contained computers, modular office furniture and a wall where somebody had left marks after removing a corkboard. A detective expecting cinematic villains would have been disappointed. A privacy engineer would have been sick.
+
+Talia reached the facility through the lawful cooperation of a former contractor and an investigator with appropriate authorization. Skyler and Iris were shown authenticated copies of selected records later, not given free rein to search private files.
+
+The operation's internal documentation described profile assembly from purchased data, misused access permissions, public posts and volunteered survey answers. It generated guesses about a person's worries, habits and likely responses.
+
+No machine knew Skyler's thoughts.
+
+A few contractors had obtained enough details to send messages at moments when he was already vulnerable. The accuracy of those messages was uneven: some landed because they referenced real events, some because they were vague, and some because the recipients supplied meaning themselves.
+
+"The product didn't predict human behavior," Talia said. "It sold confidence in predictions."
+
+The most incriminating slide described what to do when a target demanded proof.
+
+**OFFER A PROTECTIVE INTERMEDIARY.**
+
+Beside the line appeared a familiar firm.
+
+KESSLER CIVIC PROTECTION.
+
+Skyler stared at the letters.
+
+"That's the man who told me to get a lawyer."
+
+"And then kept asking for access to your annex," Iris replied.
+
+They found more: a vendor ticket authorizing temporary export of account-routing metadata, a change request that expanded retention beyond the original agreement, and a message discussing a planned protective outreach before a corresponding incident.
+
+The documents were not signed by Graham Kessler personally. Several employees and subcontractors had used shared systems. The chain still needed corroboration.
+
+Skyler wanted to name the room in his report. Iris refused until they could verify its legal address, purpose and who had owned the servers.
+
+He returned to ShadowChat's code.
+
+The old Lattice module contained a consent bypass meant for emergency testing, a dangerous convenience that had survived longer than intended. It could not explain all the threats, but it had created a pathway for some data access.
+
+The code comment beside the old exception read:
+
+**TEMP ONLY — 4TH DOOR**
+
+Skyler felt as if the floor had shifted.
+
+Four doors.
+
+Not four supernatural gateways. Not a ritual. Not a cosmic message addressed to him.
+
+A developer's shortcut.
+
+He found the commit author. The account belonged to a former vendor employee. Counsel obtained the associated service contract and ticket history. The temporary test had become a permission gap that nobody had taken responsibility for closing.
+
+Skyler wrote the public correction himself.
+
+His own system had been part of the problem.
+
+It was the hardest paragraph in the Truth Protocol.
+
+It was also the first paragraph he felt proud to sign.
+
+## CHAPTER TWENTY-SEVEN — THE LEDGER AND THE CULT
+
+The Society was not a nation, a single government agency or a machine controlling the world's music.
+
+It was a fictional circle of wealthy patrons, contractors, opportunists and believers with a marketable mythology about influence. Some members attended fundraising dinners and imagined themselves important because they knew people who knew important people. Others actually committed crimes.
+
+Its businesses were less impressive than its legend.
+
+One arm sold crisis-management packages. Another bought social-media placements. A third helped obscure who paid for questionable campaigns. A few individuals used stolen credentials and intimidation to make the pressure personal.
+
+Skyler listened while Iris explained the network's structure and felt the familiar temptation to widen every line until it covered the whole world.
+
+"But there must be someone above all of it."
+
+"Maybe," she said. "Show me the record that gets us there."
+
+They found internal nicknames: THE CHOIR for paid-media contractors; THE LEDGER for the payment routing; PAWNS for recruited couriers; and MIRROR for the profiling operation.
+
+The terms sounded like a cult because members wanted them to. The symbolism made ordinary wrongdoing seem grand enough to excuse.
+
+A witness described one dinner in which patrons congratulated themselves for manipulating public opinion. The testimony established their boasts, not that the boasts were true.
+
+"That's important," Iris said. "A liar can claim to control a thing he doesn't control."
+
+The network's financial records connected to Northstar and the sham employment offer. A subgroup had approved coercive messages and profile exports. The evidence was concrete enough to support a serious investigation.
+
+Skyler wondered whether that should feel like victory.
+
+Instead he remembered the months he had lost trying to interpret every passing car and every song as a message.
+
+He had been harmed by specific people.
+
+He had also been harmed by his own habit of giving those people more power in his imagination than the evidence granted them.
+
+At the center of the Ledger was a note describing a useful sales technique:
+
+*Make the client believe only you can stop the pressure.*
+
+Underneath was a payment to the private firm that had been offering Skyler protection.
+
+He called Iris.
+
+"I don't need to prove they're everywhere."
+
+"No."
+
+"I need to prove who made this happen."
+
+"And who benefited," she said.
+
+He opened the next record.
+
+The signature belonged to a manager who reported to Graham Kessler.
+
+## CHAPTER TWENTY-EIGHT — THE WOMAN ABOVE THE BOSS
+
+Vivienne Carrow chose a glass-walled conference room.
+
+From the upper floors of the office tower, the city looked small enough to rearrange.
+
+"I imagine you've come to tell me I destroyed your life," she said.
+
+Skyler sat beside Iris and his counsel.
+
+"I came to ask about a payment."
+
+He placed the invoice on the table.
+
+Vivienne had approved a workplace risk review after he refused to hand over ShadowChat architecture notes. The review included a legitimate employment component and a questionable subcontractor who appeared to have gathered personal information far outside the needs of his job.
+
+"This was compliance," she said.
+
+"Then show us the scope of what you approved."
+
+Her lawyer looked down at the document.
+
+"You're alleging the contractor exceeded instructions?"
+
+"We're asking whether they did," Iris replied.
+
+Vivienne listed Skyler's real workplace failings with brutal accuracy: late arrivals, disputes handled badly, a procedure ignored. He couldn't deny them. He could only separate them from the unrelated information the company had acquired.
+
+"You were difficult," she said.
+
+"Sometimes."
+
+"You made people uncomfortable."
+
+"Then I'm entitled to know what I did. People who weren't my coworkers were entitled not to be profiled for your convenience."
+
+It was not an eloquent sentence. It was true.
+
+Iris produced a second record: a meeting invitation sent to the risk contractor and Kessler Civic Protection before one report was finalized.
+
+"Who was the client?" she asked.
+
+Vivienne studied the date.
+
+"I need to check our archive."
+
+"Please do."
+
+Outside, Skyler nearly posted a triumphant statement saying the executive had confessed.
+
+She had done no such thing.
+
+He deleted the draft and sent his attorney the meeting minutes instead.
+
+"That was progress," Micah said on the phone.
+
+"She barely admitted anything."
+
+"You walked away with a document. Last year you'd have walked away with a fight."
+
+Skyler smiled, reluctantly.
+
+Then Kaylee texted a photograph of Summer's science project. It explained the water cycle using cotton-ball clouds and a paper umbrella.
+
+He looked at the little blue raindrops glued to the board.
+
+Not a code.
+
+Not a warning.
+
+A girl doing homework.
+
+He replied with three words: *She did great.*
+
+## CHAPTER TWENTY-NINE — EVERYONE KEPT SOMETHING BACK
+
+Talia had concealed her former employment with a data subcontractor.
+
+Iris had withheld a lead because releasing it early would have endangered a source.
+
+Micah had discovered an old ShadowChat permission error months earlier but had not told Skyler how serious he thought it was, worried that Skyler would either panic or lash out.
+
+The revelations arrived in the worst possible order.
+
+Skyler stood beside a whiteboard covered with dates and wanted to call it betrayal.
+
+"Why didn't you tell me?" he asked Micah.
+
+"Because you were barely sleeping and you treated every bad result as proof somebody hated you."
+
+"So you kept it from me."
+
+"Yes. That was wrong."
+
+Micah did not defend himself beyond the explanation. The simplicity took the rage out of Skyler's next sentence.
+
+Talia placed an employment contract on the table.
+
+"I worked there," she said. "Not on the campaign against you. On a piece of the routing system. I should have told you sooner."
+
+"Did you know people were being profiled?"
+
+"Not at first. Later I suspected. I told myself a report up the chain was enough."
+
+She had preserved correspondence that helped authenticate the expansion of access rights. Her testimony would need scrutiny, and her motives could not be treated as pure simply because she was helping now.
+
+Iris explained the endangered source and gave Skyler the choice to continue working with her.
+
+He looked at three people who had helped him, each imperfect.
+
+Then he remembered how easily he had wanted every woman he'd dated to surrender her phone and every colleague to explain every omission.
+
+"Secrets are not all the same," he said finally. "Some protect somebody. Some protect the person keeping them. Some hurt people. We have to find out which."
+
+They made a disclosure list for the investigation, including their own potential conflicts. It was uncomfortable and necessary.
+
+That night Skyler opened a SkyCommunity prototype and removed a feature that ranked users by how much personal information they had shared.
+
+Micah read the proposed new rule:
+
+**A person does not owe the platform their whole life to belong.**
+
+He nodded.
+
+"That's going to make some growth people angry."
+
+"Then we'll grow slower."
+
+On the whiteboard, beside the arrows and company names, Skyler drew a tiny knight.
+
+It was a reminder to move sideways when the obvious move led into a trap.
+
+## CHAPTER THIRTY — BRIAR'S PRICE
+
+Briar arrived with counsel and a canvas bag.
+
+She looked tired enough to have forgotten how to pretend otherwise.
+
+Skyler had loved her. Part of him still did. That made it harder to hold the next conversation honestly without turning it into either revenge or forgiveness on command.
+
+She emptied the bag.
+
+Inside were a phone, a notebook and printouts of the messages she'd received from a person claiming to work for Kessler's protection team.
+
+"I forwarded screenshots," she said.
+
+"Of us?"
+
+"Some. I thought the safety people were checking threats."
+
+"You told me you hadn't."
+
+"I was scared you'd leave if I said I had."
+
+Skyler stared at the pages. Several screenshots were ordinary private conversations, embarrassing mostly because they had never been intended for strangers. One contained an attachment with an account-recovery identifier that should not have been shared.
+
+"Did you know who they were?"
+
+"No. I thought I did."
+
+"Did you get paid?"
+
+"No."
+
+Her lawyer confirmed that the messages would be reviewed and authenticated, not accepted because Briar was sorry.
+
+She had also received a later request to send the girls' scheduling information. That time she refused and preserved the request.
+
+It was a consequential choice, but it did not erase what she'd already done.
+
+Skyler felt two incompatible feelings settle beside each other: gratitude that she had refused and pain that she had first betrayed his trust.
+
+"I wanted to be the person who made you safe," she said.
+
+"You couldn't have made a decision for me without asking me."
+
+"I know."
+
+He believed she knew now.
+
+She handed Iris the original messages through an agreed process. The evidence tied the supposed protective contact to an address used by one of Kessler's subcontractors. It was stronger than rumor. It still did not establish the intentions of every employee of the firm.
+
+After Briar left, Skyler opened ShadowChat and stared at the account recovery settings.
+
+The old version assumed that a contact was trustworthy if a user had once selected them.
+
+He rewrote the recovery flow so that consent could be reviewed and revoked. In the documentation he used a plain example rather than Briar's name.
+
+**An old permission is not a permanent promise.**
+
+That evening he wrote her a message.
+
+*Thank you for preserving the records. I need distance. I hope you find a good life.*
+
+He read it twice and sent it.
+
+He did not ask for a reply.
+
+---
